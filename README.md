@@ -117,7 +117,7 @@ API 키는 Windows DPAPI로 암호화돼서, **같은 PC의 같은 Windows 계�
 ## 🛠️ 직접 빌드하기
 
 ### 개발 환경
-- Visual Studio 2022
+- Visual Studio 2026
 - C# / Windows Forms (.NET Framework 4.8)
 - [Newtonsoft.Json](https://www.newtonsoft.com/json) (NuGet)
 - [로스트아크 Open API](https://developer-lostark.game.onstove.com/)
